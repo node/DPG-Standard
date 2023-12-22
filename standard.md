@@ -1,10 +1,10 @@
-# Digital Public Goods Standard
+# 数字公共产品标准
 
-- **Version**: 1.1.4
-- **Last Update**: 2021-01-04
-- [View Changelog](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md)
+- **版本**： 1.1.4
+- **最后更新**： 2021-01-04
+- [查看更新记录](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md)
 
-Indicator | Requirement
+指标 | 要求
 --- | ---
 **1. Relevance to Sustainable Development Goals** | Digital public goods must demonstrate relevance to advancing the [Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals).
 **2. Use of Approved Open Licenses** | Digital public goods must demonstrate the use of an approved open license. For open-source software, only [OSI approved licenses](https://opensource.org/licenses) are accepted. For open content collections the use of a [Creative Commons license](https://creativecommons.org/licenses/) is required. DPGs are encouraged to use a license that allows for both derivatives and commercial reuse ([CC-BY](https://creativecommons.org/licenses/by/4.0/) and [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)), or dedicate content to the public domain ([CC0](https://creativecommons.org/choose/zero/)); licenses that do not allow for commercial reuse ([CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) and [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)) are also accepted. For open data, an [Open Data Commons approved license](https://opendefinition.org/licenses/) is required. See [The full license list](https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/licenses.md) for reference.
