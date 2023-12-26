@@ -1,7 +1,7 @@
-# Archiving Policy
+# 归档策略
 
-In June 2022, the DPGA introduced the concept of "archiving" to the DPG Registry. 
+2022 年 6 月，DPGA 在 DPG 登记处引入了 "归档 "概念。
 
-As of this date, nominated solutions that are inactive or do not provide the required documentation needed for review within 90 days of outreach will be moved into an "archived" state. Archived solutions can still be queried, and solutions can move from the archive to an active state by providing the information demonstrating that all requirements of the DPG Standard must be met. 
+即日起，不活跃或在外联后 90 天内未提供审查所需文件的提名解决方案将转入 "存档 "状态。已归档的解决方案仍可被查询，解决方案可通过提供信息证明必须满足 DPG 标准的所有要求，从归档状态转入激活状态。
 
-Once a year, all digital public goods will have their documentation re-reviewed by the DPGA to ensure requirements are still met. Nominees have not yet been reviewed against the DPG Standard, or may currently be undergoing review. Digital solutions that are no longer active, or do not provide the required documentation needed for review, will be moved into the archive.
+DPGA 每年都会重新审查所有数字公共产品的文件，以确保其仍然满足要求。被提名者尚未根据 DPG 标准进行审查，或者目前可能正在接受审查。不再有效或不提供审查所需文档的数字解决方案将被移入档案。
